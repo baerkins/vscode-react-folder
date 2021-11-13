@@ -1,7 +1,7 @@
 {
 	"name": "new-react-folder",
 	"displayName": "New React Folder",
-	"description": "Make a component folder with matching file names inside",
+	"description": "Create a component folder with matching file names inside",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.62.0"
