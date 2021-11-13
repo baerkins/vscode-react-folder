@@ -2,6 +2,16 @@
 	"name": "new-react-folder",
 	"displayName": "New React Folder",
 	"description": "Create a component folder with matching file names inside",
+  "publisher": "baerkins",
+	"keywords": [
+		"react",
+		"create file",
+    "create folder"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/baerkins/vscode-react-folder"
+	},
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.62.0"
