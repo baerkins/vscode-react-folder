@@ -6,7 +6,7 @@ Adds a "Create New React Folder" option to the Explorer context menu. Clicking t
 
 Configure file creation in settings (Workbench/New React Folder):
 
-![configuration options](https://raw.githubusercontent.com/baerkins/vscode-fractal-folder/master/img/options.png "Configuration")
+![configuration options](https://raw.githubusercontent.com/baerkins/vscode-react-folder/blob/main/img/options.png "Configuration")
 
 **Custom Extensions:** Addtional files can be created by adding extension names here seperated by a comma. Extension names should not contain a leading dot. Example: `scss,module.css,stories.js`
 
